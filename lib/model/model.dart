@@ -1,0 +1,1 @@
+part 'skill.dart';
